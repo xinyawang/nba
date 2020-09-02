@@ -1,5 +1,4 @@
-http://sharonxia.com/wp-content/uploads/2019/10/NBA-1-1.gif
-http://sharonxia.com/wp-content/uploads/2019/10/NBA-2.gif
+
 # NSA
 
 I designed a dashboard using React, D3 and Ant Design backed by API from stats.nba.com to visualize any individual player’s shot data, including a shot chart and user profile view. Just like this:
