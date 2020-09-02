@@ -5,8 +5,7 @@ I designed a dashboard using React, D3 and Ant Design backed by API from stats.n
 ![curry](NBA-1-1.gif)
 
 filters and 2 shot themes(hexbin and scatter)
-
-
+-----------------------------------------------------------------------------------------
 
 ![curry](NBA-2.gif)
 
