@@ -1,8 +1,14 @@
 
 # NSA
-![curry](NBA-1-1.gif)
-
 I designed a dashboard using React, D3 and Ant Design backed by API from stats.nba.com to visualize any individual player’s shot data, including a shot chart and user profile view. Just like this:
+
+![curry](NBA-1-1.gif)
+filters and 2 shot themes(hexbin and scatter)
+
+![curry](NBA-2.gif)
+search other NBA players data through top search bar
+
+
 
 ![curry](imgs/curry.png)
 
