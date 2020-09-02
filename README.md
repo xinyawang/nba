@@ -61,9 +61,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 * [d3.js](https://d3js.org/) - [d3-shotchart](https://www.npmjs.com/package/d3-shotchart) for basketball court visualization
 * [antd](https://www.npmjs.com/package/antd) - An enterprise-class UI design language and React implementation.
 
-## Authors
-
-* **Zhekai Jin** 
 
 ## License
 
