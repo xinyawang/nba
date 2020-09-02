@@ -6,6 +6,8 @@ I designed a dashboard using React, D3 and Ant Design backed by API from stats.n
 
 filters and 2 shot themes(hexbin and scatter)
 
+
+
 ![curry](NBA-2.gif)
 
 search other NBA players data through top search bar
