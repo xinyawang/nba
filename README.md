@@ -1,6 +1,6 @@
 # NSA
 
-Me playing with around React.js and front end; I designed a dashboard using React, D3 and Ant Design backed by API from stats.nba.com to visualize any individual player’s shot data, including a shot chart and user profile view. Just like this:
+I designed a dashboard using React, D3 and Ant Design backed by API from stats.nba.com to visualize any individual player’s shot data, including a shot chart and user profile view. Just like this:
 
 ![curry](imgs/curry.png)
 
@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 Just get [npm and Node.js](https://www.npmjs.com/get-npm), then
 
 ```
-git clone https://github.com/ZhekaiJin/NSA.git
+git clone https://github.com/xinyawang/NSA.git
 npm install
 ```
 wait with your patience for all packages to be installed 
