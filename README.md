@@ -24,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 Just get [npm and Node.js](https://www.npmjs.com/get-npm), then
 
 ```
-git clone https://github.com/xinyawang/NSA.git
+git clone https://github.com/xinyawang/nba.git
 npm install
 ```
 wait with your patience for all packages to be installed 
