@@ -14,7 +14,7 @@ Figure 2: search other NBA players data through top search bar
 
 
 
-The implementation invovles creating a few extra filters and 2 shot themes(hexbin and scatter) to provide the more customized visualization you see on the shotchart. The autocomplete player search bar added below providing a list of players(image and name) in the suggestion list.
+The implementation invovles creating a few extra filters and 2 shot themes(hexbin and scatter) to provide the more customized visualization you see on the shotchart. The autocomplete player search bar provides a list of players(image and name) in the suggestion list.
 
 ## Getting Started
 
